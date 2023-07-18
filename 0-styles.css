@@ -1,0 +1,51 @@
+body
+{
+    background-color: white;
+    color: white;
+    font-family:'source sans' sans-serif;
+    text-decoration: none;
+}
+
+main
+{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+}
+
+.main-heading
+{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.sub-heading
+{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 42.5px;
+}
+.cta-button
+{
+font-size: 14px;
+font-weight: bold;
+color: white;
+margin-top: 0;
+margin-bottom: 74.5px;
+background-color: rgba (255,101,101,1);
+border: none;
+height: 44px;
+width: 163px;
+border-radius: 22px;
+cursor: pointer;
+}
+.main-paragraph
+{
+    font-size: 16px;
+    font-weight: normal;
+}

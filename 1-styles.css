@@ -1,0 +1,91 @@
+.main-container{
+    background-image: url(./images/headphones_hero_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.top-container{
+    display: flex;
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #FF6565;
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+ul{
+    list-style: none;
+}
+
+.nav-links{
+    margin-right: 1%;
+}
+.logo{
+    margin-right: 65%;
+}
+main
+{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 18%;
+}
+
+.main-heading
+{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.sub-heading
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.cta-button
+{
+font-size: 14px;
+font-weight: bold;
+color: white;
+margin-top: 0;
+margin-bottom: 74.5px;
+background-color: #FF6565;
+border: none;
+height: 44px;
+width: 162px;
+border-radius: 22px;
+cursor: pointer;
+}
+.main-section
+{
+    text-align: center;
+    margin: 0 29%;
+    padding-bottom: 1%;
+}
+.main-paragraph p
+{
+    display: flex;
+    text-align: center;
+    padding: 2%;
+}
+
+.message-section{
+    display: flex;
+    text-align: center;
+    width: 184px;
+    color:#071629;
+    margin-top: 5%;
+    position: relative;
+
+}
+.message-elements{
+    display: flex;
+    text-align: center;
+}
